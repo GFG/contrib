@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"github.com/jiangjin/go-cache"
+	"github.com/GFG/go-cache"
 	"reflect"
 	"time"
 )
